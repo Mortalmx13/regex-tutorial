@@ -1,6 +1,4 @@
-# Title (Matching an Email)
-
-Introductory paragraph (replace this with your text)
+# Matching an Email
 
 ## Summary
 
